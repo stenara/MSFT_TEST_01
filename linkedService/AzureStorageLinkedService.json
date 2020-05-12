@@ -12,6 +12,10 @@
 				},
 				"secretName": "BlobSAS"
 			}
+		},
+		"connectVia": {
+			"referenceName": "CentralUSIR",
+			"type": "IntegrationRuntimeReference"
 		}
 	},
 	"type": "Microsoft.DataFactory/factories/linkedservices"
