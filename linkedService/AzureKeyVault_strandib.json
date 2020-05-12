@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVault_strandib",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://Contoso-vault87.vault.azure.net/"
+		}
+	}
+}
